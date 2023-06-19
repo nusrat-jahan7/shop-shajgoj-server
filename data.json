@@ -1,0 +1,58 @@
+[
+    {
+        "name" : "Skin Cafe 100% Natural Rose Water Face And Body Mist",
+        "brand" : "Skin cafe",
+        "price" : 271,
+        "origin" : "Bangladesh",
+        "details" : "This is the purest rose water and body mist you can get. We source our rose from the famous golap gram of Savar, Dhaka. Steam distillation process is used with maximum hygiene to ensure the purity and flavor of rose into the yielded water. The rose water works as a natural astringent toner that deep cleanses and brightens your skin, also tightens your pores. Use it alone or with any powder face mask of your choice to form a smooth paste.",
+        "img" : "https://i.ibb.co/5M3nK1J/Skin-Cafe-Rose-Water-new-750x750.jpg"
+    },
+    {
+        "name" : "Pond's Super Light Gel with Hyaluronic Acid + Vitamin E",
+        "brand" : "Pond's",
+        "price" : 180,
+        "origin" : "India",
+        "details" : "Looking for 24 hours of moisturization for your skin? Look no further Introducing the all new Pond's Super Light Gel your go-to moisturizer for all seasons. Infused with the goodness of Hyaluronic Acid, Vitamin E and Glycerine, this super light moisturizer absorbs faster than regular creams and gives 24-hour hydration.",
+        "img" : "https://i.ibb.co/rMvczvc/Pond-s-Super-Light-Gel-with-Hyaluronic-Acid-Vitamin-E-1-750x750.jpg"
+    },
+    {
+        "name" : "Simple Kind to Skin Hydrating Light Moisturiser",
+        "brand" : "Simple",
+        "price" : 549,
+        "origin" : "United Kingdom",
+        "details" : "Simple Kind to Skin Hydrating Light Moisturiser from the UK's no.1 facial skin care brand provides your skin with instant lightweight hydration.This facial moisturiser keeps your skin feeling soft, smooth and perfectly hydrated for up to 12 hours.Our face moisturiser is made with skin-loving ingredients, such as pro-vitamin B5, vitamin E and bisabolol.his hydrating moisturiser contains no artificial perfume or colour, and no harsh chemicals that can upset your skin.",
+        "img" : "https://i.ibb.co/BBPgBDn/Simple-Kind-to-Skin-Hydrating-Light-Moisturiser-2.jpg"
+    },
+    {
+        "name" : "w7 Banana Dreams Loose Powder",
+        "brand" : "W7",
+        "price" : 449,
+        "origin" : "United Kingdom",
+        "details" : "The W7 Banana Dreams is a finely-milled, loose powder to set makeup for an airbrushed finish with zero caking. The yellow-toned formula helps even out skin-tone, reducing the appearance of skin discolouration.Sleek design great for travel or on the go.Tested by our team of expert makeup professionals for the best quality.Why overpay when you can get the same quality for less.",
+        "img" : "https://i.ibb.co/4Yz6Fw7/banana-dreams-loose-powder.png"
+    },
+    {
+        "name" : "Skin Cafe Makeup Cleansing Oil Advanced",
+        "brand" : "Skin cafe",
+        "price" : 490,
+        "origin" : "Bangladesh",
+        "details" : "Skin Cafe Makeup Cleansing Oil is a mild makeup cleanser which gently yet effectively removes all your makeup and impurities. This light textured, non-greasy makeup cleansing oil is extremely soothing and hydrating to the skin as it does not contain any artificial color or alcohol.",
+        "img" : "https://i.ibb.co/WDGQvfW/Skin-Cafe-Makeup-Cleansing-Oil-Advanced-1-750x750.jpg"
+    },
+    {
+        "name" : "Technic Mega Lash Water Resistant Mascara",
+        "brand" : "Technic",
+        "price" : 295,
+        "origin" : "England",
+        "details" : "Add drama to your eyes with Technic Mega Lash ; Water resistant Mascara an amplifying mascara that works to lift, load and magnify your lashes.",
+        "img" : "https://i.ibb.co/9WrbK7W/technic-mega-lash-waterproof-mascara-black-4955-550x688w.jpg"
+    },
+    {
+        "name" : "Technic Invite Only Pressed Pigment Palette",
+        "brand" : "Technic",
+        "price" : 495,
+        "origin" : "England",
+        "details" : "The latest design in our X15 Pressed Pigment Palettes! With a mixture of pressed glitters, foiled shimmers and buttery matte shades.A mixture of pinks, berries and neutral tones.",
+        "img" : "https://i.ibb.co/6Z65THm/Technic-Pressed-Pigment-Plate-Invite-Only-750x750.jpg"
+    }
+]
